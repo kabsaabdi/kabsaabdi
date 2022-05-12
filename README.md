@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @kabsaabdi
+# Hello Everyone!
+- 👋 I’m @kabsaabdi
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on exciting projects!
